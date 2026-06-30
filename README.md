@@ -14,6 +14,7 @@ Statistical Summary
 Correlation Analysis
 Trend Identification
 Insight Documentation
+
 🎯 Problem Statement
 
 Businesses often collect sales data containing missing values, incorrect entries, inconsistent data types, and duplicate records. Such issues reduce data quality and make analysis unreliable.
@@ -33,6 +34,7 @@ Total Spent
 Payment Method
 Location
 Transaction Date
+
 🛠️ Technologies Used
 Python
 Google Colab
@@ -40,6 +42,7 @@ Pandas
 NumPy
 Matplotlib
 Seaborn
+
 🧹 Data Cleaning
 
 The following preprocessing steps were performed:
@@ -50,6 +53,7 @@ Fixed incorrect data types.
 Removed duplicate records.
 Created a Data Quality Report.
 Saved the cleaned dataset for further analysis.
+
 📊 Exploratory Data Analysis (EDA)
 
 EDA was performed to understand sales patterns and customer behavior.
@@ -62,12 +66,14 @@ Sales by Location
 Total Sales by Item
 Correlation Analysis
 Monthly Sales Trend
+
 📈 Key Insights
 Coffee, Juice, Tea, Cake and Sandwich are among the frequently sold products.
 Digital Wallet is one of the most commonly used payment methods.
 Takeaway transactions are higher than In-store purchases.
 Products with higher quantity sold generally contribute to higher total sales.
 Sales trends vary across different months, indicating seasonal purchasing behavior.
+
 📊 Statistical Summary
 
 Statistical analysis was performed to understand the distribution of numerical variables such as Quantity, Price Per Unit and Total Spent.
@@ -80,6 +86,7 @@ Standard Deviation
 Minimum Value
 Maximum Value
 Quartiles
+
 🔗 Correlation Analysis
 
 Correlation analysis was performed between:
@@ -106,9 +113,7 @@ Cafe Sales Project/
 
 ├── DataCleaning.ipynb
 
-├── EDA.ipynb
-
-├── Data_Quality_Report.csv
+├── EDA_Cleaned_CafeSales.ipynb
 
 └── README.md
 
