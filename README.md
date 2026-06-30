@@ -1,4 +1,4 @@
-☕ Cafe Sales Data Analysis Using Python
+## ☕ Cafe Sales Data Analysis Using Python
 
 
 # 📌 Project Overview
@@ -17,14 +17,14 @@ Trend Identification
 Insight Documentation
 
 
-🎯 Problem Statement
+# 🎯 Problem Statement
 
 Businesses often collect sales data containing missing values, incorrect entries, inconsistent data types, and duplicate records. Such issues reduce data quality and make analysis unreliable.
 
 The objective of this project is to clean the café sales dataset and perform exploratory data analysis to discover meaningful insights that support better business decisions.
 
 
-📂 Dataset
+# 📂 Dataset
 
 Dataset: Dirty Cafe Sales Dataset (Kaggle)
 
@@ -47,8 +47,7 @@ Location
 Transaction Date
 
 
-
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 Python
 
 Google Colab
@@ -62,7 +61,7 @@ Matplotlib
 Seaborn
 
 
-🧹 Data Cleaning
+# 🧹 Data Cleaning
 
 The following preprocessing steps were performed:
 
@@ -74,7 +73,7 @@ Created a Data Quality Report.
 Saved the cleaned dataset for further analysis.
 
 
-📊 Exploratory Data Analysis (EDA)
+# 📊 Exploratory Data Analysis (EDA)
 
 EDA was performed to understand sales patterns and customer behavior.
 
@@ -88,15 +87,15 @@ Correlation Analysis
 Monthly Sales Trend
 
 
-📈 Key Insights
-Coffee, Juice, Tea, Cake and Sandwich are among the frequently sold products.
+# 📈 Key Insights
+C offee, Juice, Tea, Cake and Sandwich are among the frequently sold products.
 Digital Wallet is one of the most commonly used payment methods.
 Takeaway transactions are higher than In-store purchases.
 Products with higher quantity sold generally contribute to higher total sales.
 Sales trends vary across different months, indicating seasonal purchasing behavior.
 
 
-📊 Statistical Summary
+# 📊 Statistical Summary
 
 Statistical analysis was performed to understand the distribution of numerical variables such as Quantity, Price Per Unit and Total Spent.
 
@@ -110,7 +109,7 @@ Maximum Value
 Quartiles
 
 
-🔗 Correlation Analysis
+# 🔗 Correlation Analysis
 
 Correlation analysis was performed between:
 
@@ -121,14 +120,14 @@ Total Spent
 A heatmap was used to visualize relationships among numerical variables.
 
 
-📅 Trend Identification
+# 📅 Trend Identification
 
 Monthly sales trends were analyzed using the Transaction Date column.
 
 The trend analysis helped identify changes in sales over different months.
 
 
-📁 Project Structure
+# 📁 Project Structure
 
 Cafe Sales Project/
 
@@ -143,7 +142,7 @@ Cafe Sales Project/
 └── README.md
 
 
-🚧 Challenges Faced
+# 🚧 Challenges Faced
 
 During the project, several challenges were encountered:
 
@@ -157,7 +156,7 @@ Presenting findings through simple visualizations.
 These challenges helped improve practical knowledge of data cleaning and exploratory data analysis.
 
 
-🔮 Future Improvements
+# 🔮 Future Improvements
 
 Future enhancements for this project include:
 
@@ -166,7 +165,9 @@ Performing predictive analysis using Machine Learning.
 Building sales forecasting models.
 Adding customer segmentation.
 Creating an automated reporting system.
-🚀 How to Run the Project
+
+
+# 🚀 How to Run the Project
 Install Required Libraries
 pip install pandas numpy matplotlib seaborn
 Run the Notebook
@@ -174,12 +175,12 @@ Run the Notebook
 Open the notebook in Google Colab or Jupyter Notebook and execute all cells in sequence.
 
 
-👩‍💻 Author
+# 👩‍💻 Author
 
 Shlok Sachin Deshpande
 
 
-⭐ Project Highlights
+# ⭐ Project Highlights
 
 ✅ Data Cleaning
 
