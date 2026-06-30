@@ -29,21 +29,35 @@ The objective of this project is to clean the café sales dataset and perform ex
 Dataset: Dirty Cafe Sales Dataset (Kaggle)
 
 Features Used
+
 Transaction ID
+
 Item
+
 Quantity
+
 Price Per Unit
+
 Total Spent
+
 Payment Method
+
 Location
+
 Transaction Date
+
 
 🛠️ Technologies Used
 Python
+
 Google Colab
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
 
 
