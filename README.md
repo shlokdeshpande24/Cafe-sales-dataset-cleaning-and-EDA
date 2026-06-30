@@ -1,4 +1,4 @@
-# ☕ Cafe Sales Data Analysis Using Python
+# ☕ Cafe Sales Data Cleaning, Analysis, EDA Using Python
 
 
 # 📌 Project Overview
