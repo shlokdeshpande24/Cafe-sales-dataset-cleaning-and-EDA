@@ -15,11 +15,13 @@ Correlation Analysis
 Trend Identification
 Insight Documentation
 
+
 🎯 Problem Statement
 
 Businesses often collect sales data containing missing values, incorrect entries, inconsistent data types, and duplicate records. Such issues reduce data quality and make analysis unreliable.
 
 The objective of this project is to clean the café sales dataset and perform exploratory data analysis to discover meaningful insights that support better business decisions.
+
 
 📂 Dataset
 
@@ -43,6 +45,7 @@ NumPy
 Matplotlib
 Seaborn
 
+
 🧹 Data Cleaning
 
 The following preprocessing steps were performed:
@@ -53,6 +56,7 @@ Fixed incorrect data types.
 Removed duplicate records.
 Created a Data Quality Report.
 Saved the cleaned dataset for further analysis.
+
 
 📊 Exploratory Data Analysis (EDA)
 
@@ -67,12 +71,14 @@ Total Sales by Item
 Correlation Analysis
 Monthly Sales Trend
 
+
 📈 Key Insights
 Coffee, Juice, Tea, Cake and Sandwich are among the frequently sold products.
 Digital Wallet is one of the most commonly used payment methods.
 Takeaway transactions are higher than In-store purchases.
 Products with higher quantity sold generally contribute to higher total sales.
 Sales trends vary across different months, indicating seasonal purchasing behavior.
+
 
 📊 Statistical Summary
 
@@ -97,11 +103,13 @@ Total Spent
 
 A heatmap was used to visualize relationships among numerical variables.
 
+
 📅 Trend Identification
 
 Monthly sales trends were analyzed using the Transaction Date column.
 
 The trend analysis helped identify changes in sales over different months.
+
 
 📁 Project Structure
 
@@ -111,11 +119,12 @@ Cafe Sales Project/
 
 ├── clean_cafe_sales.csv
 
-├── DataCleaning.ipynb
+├── Cafe_Sales_Cleaning.ipynb
 
 ├── EDA_Cleaned_CafeSales.ipynb
 
 └── README.md
+
 
 🚧 Challenges Faced
 
@@ -129,6 +138,7 @@ Understanding relationships between different variables.
 Presenting findings through simple visualizations.
 
 These challenges helped improve practical knowledge of data cleaning and exploratory data analysis.
+
 
 🔮 Future Improvements
 
@@ -146,9 +156,11 @@ Run the Notebook
 
 Open the notebook in Google Colab or Jupyter Notebook and execute all cells in sequence.
 
+
 👩‍💻 Author
 
 Shlok Sachin Deshpande
+
 
 ⭐ Project Highlights
 
