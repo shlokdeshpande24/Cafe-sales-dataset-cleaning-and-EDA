@@ -1,5 +1,6 @@
 ☕ Cafe Sales Data Analysis Using Python
 
+
 📌 Project Overview
 
 This project focuses on cleaning and analyzing a café sales dataset to transform raw data into meaningful business insights. The project follows a complete data analytics workflow, including Data Cleaning and Exploratory Data Analysis (EDA).
@@ -92,6 +93,7 @@ Standard Deviation
 Minimum Value
 Maximum Value
 Quartiles
+
 
 🔗 Correlation Analysis
 
