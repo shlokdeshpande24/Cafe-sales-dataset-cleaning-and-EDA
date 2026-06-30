@@ -1,7 +1,7 @@
 ☕ Cafe Sales Data Analysis Using Python
 
 
-5 📌 Project Overview
+5📌 Project Overview
 
 This project focuses on cleaning and analyzing a café sales dataset to transform raw data into meaningful business insights. The project follows a complete data analytics workflow, including Data Cleaning and Exploratory Data Analysis (EDA).
 
@@ -45,6 +45,7 @@ Payment Method
 Location
 
 Transaction Date
+
 
 
 🛠️ Technologies Used
